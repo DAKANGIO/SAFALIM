@@ -1,5 +1,4 @@
-# local ScreenGui = Instance.new("ScreenGui")
-
+local ScreenGui = Instance.new("ScreenGui")
 local open = Instance.new("Frame")
 local ob = Instance.new("TextButton")
 local main = Instance.new("Frame")
